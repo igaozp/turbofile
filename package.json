@@ -110,7 +110,7 @@
     "vue-template-compiler": "^2.7.14",
     "vuex": "^3.6.2",
     "vuex-router-sync": "^5.0.0",
-    "webpack": "^5.82.1",
+    "webpack": "^5.102.1",
     "webpack-cli": "^5.1.1",
     "webpack-dev-server": "^4.15.0",
     "webpack-hot-middleware": "^2.25.3",
